@@ -1,0 +1,5 @@
+{
+  "name": "Storyboard to VEO Prompt Generator",
+  "description": "An application that analyzes a storyboard provided as an image or table data and automatically generates a prompt for video generation models like VEO.",
+  "requestFramePermissions": []
+}
